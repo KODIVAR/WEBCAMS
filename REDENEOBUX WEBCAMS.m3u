@@ -12,6 +12,13 @@
 
 #EXTINF:-1, [COLOR yellow][I]------ World Webcams ------[/COLOR] [/I]
 
+#EXTINF:-1,City Cam, Sortland, Nordland, Norway
+http://webkamera.vesteralskraft.no/mjpg/video.mjpg
+#EXTINF:-1,The Pie Pizzeria - Utah, Salt Lake City
+http://www.insecam.org/cam/view/188821/
+
+
+
 
 #EXTINF:-1,Algonquin Park -Canada
 http://video1.earthcam.com/fecnetwork/5230.flv/playlist.m3u8
