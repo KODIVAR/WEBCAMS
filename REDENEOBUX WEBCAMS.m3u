@@ -15,7 +15,7 @@
 #EXTINF:-1,City Cam, Sortland, Nordland, Norway
 http://webkamera.vesteralskraft.no/mjpg/video.mjpg
 #EXTINF:-1,The Pie Pizzeria - Utah, Salt Lake City
-http://www.insecam.org/cam/view/188821/
+http://70.56.107.133:8081/axis-cgi/mjpg/video.cgi?camera=&amp;resolution=640x480
 
 
 
